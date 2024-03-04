@@ -1,0 +1,15 @@
+C:\usr\Course\DateTime\DateTime\bin\Debug\net7.0\DateTime.exe
+C:\usr\Course\DateTime\DateTime\bin\Debug\net7.0\DateTime.deps.json
+C:\usr\Course\DateTime\DateTime\bin\Debug\net7.0\DateTime.runtimeconfig.json
+C:\usr\Course\DateTime\DateTime\bin\Debug\net7.0\DateTime.dll
+C:\usr\Course\DateTime\DateTime\bin\Debug\net7.0\DateTime.pdb
+C:\usr\Course\DateTime\DateTime\obj\Debug\net7.0\DateTime.csproj.AssemblyReference.cache
+C:\usr\Course\DateTime\DateTime\obj\Debug\net7.0\DateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\usr\Course\DateTime\DateTime\obj\Debug\net7.0\DateTime.AssemblyInfoInputs.cache
+C:\usr\Course\DateTime\DateTime\obj\Debug\net7.0\DateTime.AssemblyInfo.cs
+C:\usr\Course\DateTime\DateTime\obj\Debug\net7.0\DateTime.csproj.CoreCompileInputs.cache
+C:\usr\Course\DateTime\DateTime\obj\Debug\net7.0\DateTime.dll
+C:\usr\Course\DateTime\DateTime\obj\Debug\net7.0\refint\DateTime.dll
+C:\usr\Course\DateTime\DateTime\obj\Debug\net7.0\DateTime.pdb
+C:\usr\Course\DateTime\DateTime\obj\Debug\net7.0\DateTime.genruntimeconfig.cache
+C:\usr\Course\DateTime\DateTime\obj\Debug\net7.0\ref\DateTime.dll
