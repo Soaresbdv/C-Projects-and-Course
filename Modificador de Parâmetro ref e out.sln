@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modificador de Parâmetro ref e out", "Modificador de Parâmetro ref e out\Modificador de Parâmetro ref e out.csproj", "{7672FC8D-DDA1-4A1C-9982-27B5E3B4ECCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7672FC8D-DDA1-4A1C-9982-27B5E3B4ECCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7672FC8D-DDA1-4A1C-9982-27B5E3B4ECCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7672FC8D-DDA1-4A1C-9982-27B5E3B4ECCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7672FC8D-DDA1-4A1C-9982-27B5E3B4ECCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA3640E8-EBD2-49DD-991A-261FB8738638}
+	EndGlobalSection
+EndGlobal
